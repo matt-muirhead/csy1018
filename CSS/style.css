@@ -1,0 +1,52 @@
+*{
+  margin: 10px;
+  padding: 0;
+}
+
+/* Base Typography */
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
+  list-style: 21px;
+  background-color: #685413;
+  color: #789674;
+}
+
+/* Headings */
+h1, h2, h3{
+  margin-bottom: 21px;
+}
+
+h1 {
+font-size: 36px;
+line-height: 40px;
+}
+
+h2{
+  font-size: 24px;
+  line-height: 28px;
+}
+
+h3{
+  font-size: 18px;
+  line-height: 22px;
+}
+
+/* Paragraphs */
+p{
+  margin-bottom: 21px;
+}
+
+/* lists */
+ul, ol{
+  margin-bottom: 21px;
+}
+
+li{
+  margin-left: 30px;
+}
+
+/* links */
+a{
+  color: #f00;
+}
